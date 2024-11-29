@@ -1,0 +1,11 @@
+.grid {
+    display: inline-block;
+   
+    padding-bottom: 4rem;
+    text-align: center;
+    margin-top: 1rem;
+    box-sizing: border-box;
+}
+.grid img{
+    max-width: 50%;
+}
